@@ -10,4 +10,4 @@ comments: false
 
 ## 多情只有春庭月，犹为相思照落花
 
-<span style="font-size:0.6rem;font-weight:100;color:#a0a0a0">联系我: deer-gate@outlook.com</span>
+<span style="font-size:0.6rem;font-weight:100;color:darkolivegreen">联系我: deer-gate@outlook.com</span>
