@@ -1,6 +1,3 @@
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
-
 **Moon** is a minimal, one column jekyll theme.
 
 ## Features
