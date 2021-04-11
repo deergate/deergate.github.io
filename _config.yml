@@ -2,13 +2,14 @@
 title:              期许
 bio:                '怎么才能告诉你，我喜欢你'
 description:        "朱丹 zhudan 喜欢 love"
+maincnt:            "情不知所起，一往而深"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://deergate.github.io
+url:                https://zhudan.love
 lover:              'assets/img/lover.jpeg'
 
 # Jekyll
