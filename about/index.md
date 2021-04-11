@@ -6,6 +6,6 @@ date: 2021-01-01
 comments: false
 ---
     
-<center>喜欢你</center>
+喜欢你
 
 ## 情不知所起，一往而深
